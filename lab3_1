@@ -1,0 +1,3 @@
+open(FIS,"< lab3.txt");
+$a = <FIS>;
+print $a;
